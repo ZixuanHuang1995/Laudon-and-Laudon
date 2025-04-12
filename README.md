@@ -1,8 +1,8 @@
 # Laudon-and-Laudon
 
-            MIS
-         CS, Math
-     Math, Physics, EE
+             MIS
+           EE, CS
+     Physics, Mathematics
 
 What is Information System
 1. Sociotechnical perspective.
