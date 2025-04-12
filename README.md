@@ -1,7 +1,7 @@
 # Laudon-and-Laudon
 
              MIS
-           EE, CS
+         EE, CS, DS
      Physics, Mathematics
 
 What is Information System
