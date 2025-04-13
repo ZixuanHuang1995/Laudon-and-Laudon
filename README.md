@@ -10,3 +10,5 @@ What is Information System
 3. Solution: Management. Organization. Technology.
 
 Objectives: Operational Excellence, New Products, Services, and Business Models, Customer and Supplier Intimacy, Improved Decision Making, Competitive Advantage, Survival.
+
+A Flattened World and The Emerging Digital Firm
