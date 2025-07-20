@@ -13,5 +13,5 @@ Objectives: Operational Excellence; New Products, Services, and Business Models;
          EE, CS, DS
      Physics, Mathematics
 
-Definition of digital innovation has been defined as “the creation of (and consequent change in) market offerings, business processes, or
+Digital innovation has been defined as “the creation of (and consequent change in) market offerings, business processes, or
 models that result from the use of digital technology” (Nambisan et al., 2017, p. 224). 
