@@ -7,7 +7,7 @@ What is Information System:
 
 Objectives: Operational Excellence; New Products, Services, and Business Models; Customer and Supplier Intimacy; Improved Decision Making; Competitive Advantage; Survival.
 
-### A Flattened World and The Emerging Digital Firm
+## A Flattened World and The Emerging Digital Firm
 
              MIS
          EE, CS, DS
@@ -22,8 +22,8 @@ Key Systems Applications for the Digital Age:
 - Managing Knowledge
 - Enhacing Decision Making 
 
-### Building and Managing Systems
-Building a new information system is one kind pf planned **organizational change**.
+## Building and Managing Systems
+### Building a new information system is one kind pf planned **organizational change**.
 - IT-enabled organizational change: Automation -> Rationalization -> Redesign -> Paradigm shifts
 - The Systems Development Process: System Analysis -> System Design -> Programming -> Testing -> Conversion -> Production and Maintenance
 - Rapid Application Development(RAD), Agile Development, and DevOps
