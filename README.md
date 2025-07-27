@@ -27,3 +27,8 @@ Key Systems Applications for the Digital Age:
 - IT-enabled organizational change: Automation -> Rationalization -> Redesign -> Paradigm shifts
 - The Systems Development Process: System Analysis -> System Design -> Programming -> Testing -> Conversion -> Production and Maintenance
 - Rapid Application Development(RAD), Agile Development, and DevOps
+### Managing Global Systems
+- Business Drivers and Challenges -> Corporate Global Strategies -> Organization Structure -> Management and Business Processes -> Technology Platform
+- State of the Art
+- Legitimacy
+- CASE: The Bel Group: Laughing All the Way to Success 一路笑到成功
