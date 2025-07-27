@@ -15,3 +15,9 @@ Objectives: Operational Excellence; New Products, Services, and Business Models;
 
 Digital innovation, defined as “the creation of (and consequent change in) market offerings, business processes, or
 models that result from the use of digital technology” (Nambisan et al., 2017, p. 224), is transforming the world and constitutes a long-term trend.
+
+Key Systems Applications for the Digital Age:
+- Achieving Operational Excellence and Customer Intimacy: Enterprise Applications
+- E-commerce: Digital Markets, Digital Goods
+- Managing Knowledge
+- Enhacing Decision Making 
