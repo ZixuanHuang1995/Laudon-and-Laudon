@@ -23,10 +23,22 @@ Key Systems Applications for the Digital Age:
 - Enhacing Decision Making 
 
 ## Building and Managing Systems
-### Building a new information system is one kind of planned **organizational change**.
-- IT-enabled organizational change: Automation -> Rationalization -> Redesign -> Paradigm shifts
-- The Systems Development Process: System Analysis -> System Design -> Programming -> Testing -> Conversion -> Production and Maintenance
-- Rapid Application Development(RAD), Agile Development, and DevOps
+Building a new information system is one kind of planned **organizational change**.
+
+IT-enabled organizational change: 
+1. Automation
+2. Rationalization
+3. Redesign
+4. Paradigm shifts
+
+The Systems Development Process: 
+1. System Analysis
+2. System Design
+3. Programming
+4. Testing
+5. Conversion
+6. Production and Maintenance
+
 ### Managing Global Systems
 - Business Drivers and Challenges -> Corporate Global Strategies -> Organization Structure -> Management and Business Processes -> Technology Platform
 - State of the Art
