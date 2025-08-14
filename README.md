@@ -39,6 +39,10 @@ The Systems Development Process:
 5. Conversion
 6. Production and Maintenance
 
+RAD and Agile Method: 
+
+DevOps: 
+
 ### Managing Global Systems
 - Business Drivers and Challenges -> Corporate Global Strategies -> Organization Structure -> Management and Business Processes -> Technology Platform
 - State of the Art
