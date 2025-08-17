@@ -39,9 +39,14 @@ The Systems Development Process:
 5. Conversion
 6. Production and Maintenance
 
-RAD and Agile Method: 
+Rapid Application Development and Agile Development: 
+1. Minimum Viable Product
+2. Breaking a large project into a series of small subprojects
+3. Face-to-face communication
 
 DevOps: 
+1. Builds on agile development principles to ensure systems remain operational and competitive
+2. Create a culture and environment that further promote rapid and agile development practices
 
 ### Managing Global Systems
 - Business Drivers and Challenges -> Corporate Global Strategies -> Organization Structure -> Management and Business Processes -> Technology Platform
